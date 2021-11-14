@@ -1,7 +1,7 @@
 package a;
 
-// app9_13, �ǻ�����}�C��method
-class CCircle        // �w�q���OCCircle
+// app9_13, śÇťźŞŤĽó°}ŚC¨ěmethod
+class CCircle        // Šw¸qĂţ§OCCircle
 {
    private static double pi=3.14;
    private double radius;
