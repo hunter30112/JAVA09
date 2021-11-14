@@ -1,12 +1,12 @@
 package a;
 
-// app9_12, �إߪ���}�C
-class CCircle        // �w�q���OCCircle
+// app9_12, ŤŘĽßŞŤĽó°}ŚC
+class CCircle        // Šw¸qĂţ§OCCircle
 {
    private static double pi=3.14;
    private double radius;
 
-   public CCircle(double r)       // CCircle�غc��
+   public CCircle(double r)       // CCircleŤŘşc¤¸
    {
       radius=r;
    }
